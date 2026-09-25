@@ -3,3 +3,5 @@
 
 Hello, I am Vishnu Yadav, a BTech student interested in Artificial Intelligence, Data Science, programming, and software development. This repository contains my learning activities, API experiments, and practical work completed as part of my academic journey.
 
+## Projects
+### GitHub API Project - Used Axios to work with the GitHub API.
